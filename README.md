@@ -1,5 +1,10 @@
 # HackerOne Vulnerability Report - Reflected XSS in pubg.com
 
+![hackerone](https://i.imgur.com/vN8sOrp.png)
+
+[HackerOne Report Link](https://hackerone.com/reports/751870)
+
+
 ## Affected asset(s)
 
 * https://www.pubg.com/
